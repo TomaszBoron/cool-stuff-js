@@ -7,4 +7,4 @@ Cool stuff of JavaScript
 
 # Performance
 
-- [fuite](https://github.com/nolanlawson/fuite) - is a CLI tool for finding memory leaks in web apps.
+- [fuite](https://github.com/nolanlawson/fuite) - is a CLI tool for finding memory leaks in web apps ([show more](https://nolanlawson.com/2021/12/17/introducing-fuite-a-tool-for-finding-memory-leaks-in-web-apps/))
