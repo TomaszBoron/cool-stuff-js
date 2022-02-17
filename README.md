@@ -11,3 +11,4 @@ Cool stuff of JavaScript
 
 ## A bit of everything
 https://css-tricks.com/hottest-front-end-tools-in-2021/
+https://123apps.com/
