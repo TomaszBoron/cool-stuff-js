@@ -11,4 +11,11 @@ Cool stuff of JavaScript
 
 ## A bit of everything
 - https://css-tricks.com/hottest-front-end-tools-in-2021/
-- https://123apps.com/
+- https://123apps.com/ - some kind of tools
+- https://patterninja.com/ - pattern generator
+- 
+
+# Iteresting GitHub projects
+
+## React 
+- https://github.com/getstation/desktop-app - Station app
