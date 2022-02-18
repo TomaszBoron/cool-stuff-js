@@ -19,3 +19,6 @@ Cool stuff of JavaScript
 
 ## React 
 - https://github.com/getstation/desktop-app - Station app
+
+## SOLID example
+- https://blog.bitsrc.io/solid-principles-in-typescript-153e6923ffdb
