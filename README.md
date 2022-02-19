@@ -22,3 +22,6 @@ Cool stuff of JavaScript
 
 ## SOLID example
 - https://blog.bitsrc.io/solid-principles-in-typescript-153e6923ffdb
+
+# Blogs
+- https://www.marcveens.nl/
