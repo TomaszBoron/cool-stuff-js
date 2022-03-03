@@ -25,3 +25,6 @@ Cool stuff of JavaScript
 
 # Blogs
 - https://www.marcveens.nl/
+
+# Server
+- [6 steps to set up linux server with Nginx Docker & SSL](https://towardsdev.com/6-steps-to-set-up-linux-server-with-nginx-docker-ssl-ef501860610b)
