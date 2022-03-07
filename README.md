@@ -10,6 +10,9 @@ Cool stuff of JavaScript
 # API
 - https://github.com/public-apis/public-apis - public api
 
+# Event Bus
+- https://github.com/trutoo/event-bus
+
 ## A bit of everything
 - https://css-tricks.com/hottest-front-end-tools-in-2021/
 - https://123apps.com/ - some kind of tools
