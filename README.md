@@ -17,6 +17,7 @@ Cool stuff of JavaScript
 - https://css-tricks.com/hottest-front-end-tools-in-2021/
 - https://123apps.com/ - some kind of tools
 - https://patterninja.com/ - pattern generator
+- https://github.com/IanVS/eslint-nibble - ESlint stats
 
 # Iteresting GitHub projects
 
