@@ -27,6 +27,9 @@ Cool stuff of JavaScript
 ## SOLID example
 - https://blog.bitsrc.io/solid-principles-in-typescript-153e6923ffdb
 
+# Design pattern
+- https://javascriptpatterns.vercel.app/patterns
+
 # Blogs
 - https://www.marcveens.nl/
 
