@@ -35,3 +35,6 @@ Cool stuff of JavaScript
 
 # Server
 - [6 steps to set up linux server with Nginx Docker & SSL](https://towardsdev.com/6-steps-to-set-up-linux-server-with-nginx-docker-ssl-ef501860610b)
+
+# 3D
+- [theatrejs.com](https://www.theatrejs.com/?ref=producthunt) Editor 3D
