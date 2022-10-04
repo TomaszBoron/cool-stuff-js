@@ -29,6 +29,7 @@ Cool stuff of JavaScript
 
 # Design pattern
 - https://javascriptpatterns.vercel.app/patterns
+- https://www.patterns.dev/
 
 # Blogs
 - https://www.marcveens.nl/
