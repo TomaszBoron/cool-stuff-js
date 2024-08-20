@@ -46,3 +46,7 @@ Cool stuff of JavaScript
 
 # Courses
 - https://frontendmasters.com/
+
+# Components
+- gallery
+  -  https://github.com/sachinchoolur/lightGallery
