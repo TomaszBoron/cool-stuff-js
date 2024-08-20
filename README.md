@@ -6,6 +6,7 @@ Cool stuff of JavaScript
 
 # Performance
 - [fuite](https://github.com/nolanlawson/fuite) - is a CLI tool for finding memory leaks in web apps ([read more](https://nolanlawson.com/2021/12/17/introducing-fuite-a-tool-for-finding-memory-leaks-in-web-apps/))
+- measure performance of the JavaScript code - https://www.measurethat.net/
 
 # API
 - https://github.com/public-apis/public-apis - public api
