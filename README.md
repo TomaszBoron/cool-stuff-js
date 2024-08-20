@@ -39,3 +39,6 @@ Cool stuff of JavaScript
 
 # 3D
 - [theatrejs.com](https://www.theatrejs.com/?ref=producthunt) Editor 3D
+
+- # Design
+- open source 3D icons https://3dicons.co/?ref=dailydev
