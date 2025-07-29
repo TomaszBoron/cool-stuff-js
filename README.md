@@ -43,6 +43,7 @@ Cool stuff of JavaScript
 
 # Design
 - open source 3D icons https://3dicons.co/?ref=dailydev
+- Open-Source UI https://uiverse.io/
 
 # Courses
 - https://frontendmasters.com/
